@@ -6,8 +6,10 @@ Hospital Management System is a web application for managing diagnostic center, 
 
 ## Database Design
 ![Database Design](https://github.com/user-attachments/assets/ae225100-e997-45fa-9db2-26c566bca209)
+
 ## User Appoinment UI
 <img width="1435" alt="appointment" src="https://github.com/user-attachments/assets/3029f83d-6082-4d7c-b51e-e757c2a5ffdc" />
+
 ## Admin Dashboard
 <img width="1436" alt="admin" src="https://github.com/user-attachments/assets/7d682645-1763-4981-99b1-045c6b6ed377" />
 
