@@ -122,7 +122,7 @@ Open your browser and visit http://localhost:8000.
 
 ## Seeded Data for Testing
 
-The project includes seeders to populate test data for each user role (Admin, Teacher, and Student).
+The project includes seeders to populate test data for Admin.
 
 - Admin Login:
     - Email: hasan@mail.com
