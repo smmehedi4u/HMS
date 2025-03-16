@@ -5,33 +5,39 @@
 Hospital Management System is a web application for managing diagnostic center, faciliting interactions between agents and customers and providing a platform for patients appointment.
 
 
+![Database Design](https://github.com/user-attachments/assets/ae225100-e997-45fa-9db2-26c566bca209)
+<img width="1435" alt="appointment" src="https://github.com/user-attachments/assets/3029f83d-6082-4d7c-b51e-e757c2a5ffdc" />
+<img width="1436" alt="admin" src="https://github.com/user-attachments/assets/7d682645-1763-4981-99b1-045c6b6ed377" />
+
+
 
 ## Features
 
-- Frontend Features::
+- Frontend Features:
     
-- Appointment: Allows patients to book medical appointments online with available doctors.
-- Contact: Provides hospital contact details and a contact form for inquiries.
-- Services: Lists the medical services offered, including specialties and treatments.
-- Doctors: Displays profiles of doctors, their expertise, and availability.
-- About: Shares hospital information, mission, vision, and history.
-- Subscription: Enables users to subscribe for health updates, newsletters, or special offers.
+    - Appointment: Allows patients to book medical appointments online with available doctors.
+    - Contact: Provides hospital contact details and a contact form for inquiries.
+    - Services: Lists the medical services offered, including specialties and treatments.
+    - Doctors: Displays profiles of doctors, their expertise, and availability.
+    - About: Shares hospital information, mission, vision, and history.
+    - Subscription: Enables users to subscribe for health updates, newsletters, or special offers.
 
 
-- Admin Features 
-  - Operation Report: Manages surgical records, including patient details, surgery type, and date.
-  - Birth Report: Maintains birth records, including newborn details and parental information.
-  - Patient: Stores patient details, medical history, and treatment records.
-  - Employee: Manages hospital staff details, roles, and schedules.
-  - Room: Tracks hospital room availability, assignments, and occupancy.
-  - Bed: Manages hospital bed allocation and availability.
-  - Bill: Handles patient billing, payments, and invoices.
-  - Medicine Store: Keeps inventory of medicines, stock levels, and suppliers.
-  - Block: Categorizes different hospital sections (e.g., ICU, general ward).
-  - Appointment: Oversees patient appointment scheduling and doctor availability.
-  - Subscriber: Manages newsletter or health update subscriptions.
-  - Message: Stores and organizes patient or visitor inquiries.
-  - Setting: Controls system configurations, user roles, and hospital preferences.
+- Admin Features
+  
+    - Operation Report: Manages surgical records, including patient details, surgery type, and date.
+    - Birth Report: Maintains birth records, including newborn details and parental information.
+    - Patient: Stores patient details, medical history, and treatment records.
+    - Employee: Manages hospital staff details, roles, and schedules.
+    - Room: Tracks hospital room availability, assignments, and occupancy.
+    - Bed: Manages hospital bed allocation and availability.
+    - Bill: Handles patient billing, payments, and invoices.
+    - Medicine Store: Keeps inventory of medicines, stock levels, and suppliers.
+    - Block: Categorizes different hospital sections (e.g., ICU, general ward).
+    - Appointment: Oversees patient appointment scheduling and doctor availability.
+    - Subscriber: Manages newsletter or health update subscriptions.
+    - Message: Stores and organizes patient or visitor inquiries.
+    - Setting: Controls system configurations, user roles, and hospital preferences.
 
 
 ## Technologies Used
